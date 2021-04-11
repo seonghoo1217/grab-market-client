@@ -11,9 +11,10 @@
 }
 
 #body {
-  height: 100%vh;
+  height: 100vh;
   width: 1024px;
   margin: 0 auto;
+  padding-bottom: 24px;
 }
 #footer {
   height: 200px;
@@ -81,4 +82,8 @@
 }
 .product-avatar {
   width: 24px;
+}
+.product-Link {
+  color: inherit;
+  text-decoration: none;
 }
